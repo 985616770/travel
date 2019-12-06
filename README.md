@@ -1,9 +1,21 @@
 # travel
 
-重构
-技术栈 :　 vue2.6+,vue-router,vuex,axios,vant,better-scroll,vw/vh,vue-cli3
+> 重构
 
-- 数据: moke 数据 在`public`目录下
+**技术栈**:
+
+- vue2.6
+- vue-router
+- vuex
+- axios
+- vant
+- better-scroll
+- vw/vh
+- vue-cli3
+
+## 数据:
+
+- moke 数据 在`public`目录下
 
 ## Project setup
 
