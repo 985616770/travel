@@ -17,6 +17,10 @@
 
 - moke 数据 在`public`目录下
 
+## 项目截图
+
+![看不见可以右键看源地址](https://yimg.xjdd.xyz//2.gif)
+
 ## Project setup
 
 ```
