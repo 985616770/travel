@@ -19,7 +19,7 @@
 
 ## 项目截图
 
-![](https://yimg.xjdd.xyz//2.gif)
+![](https://yimg.xjdd.xyz//2.gif) 
 
 ## Project setup
 
