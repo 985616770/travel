@@ -19,7 +19,9 @@
 
 ## 项目截图
 
-![打不开?](https://yimg.xjdd.xyz//2.gif) 
+![1](https://yimg.xjdd.xyz//1.gif)
+![2](https://yimg.xjdd.xyz//3.gif)
+![3](https://yimg.xjdd.xyz//4.gif)
 
 ## Project setup
 
