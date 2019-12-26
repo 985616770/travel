@@ -1,12 +1,12 @@
 const URL_API = {
   getCity: {
-    url: '/city.json',
+    url: '/api/city.json',
   },
   getDetail: {
-    url: '/detail.json',
+    url: '/api/detail.json',
   },
   getIndex: {
-    url: '/index.json',
+    url: '/api/index.json',
   },
 };
 export default URL_API;

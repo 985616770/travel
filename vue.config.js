@@ -26,7 +26,7 @@ module.exports = {
   devServer: {
     proxy: {
       '/api': {
-        target: 'http://localhost:8083',
+        target: process.env.VUE_APP_DEV,
         changOrigin: true,
         pathRewrite: {
           '^/api': '/mock/', // rewrite path
@@ -34,4 +34,5 @@ module.exports = {
       },
     },
   },
+  
 };

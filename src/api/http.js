@@ -7,7 +7,7 @@ import { Toast } from 'vant';
 import service from './api';
 
 const instance = axios.create({
-  baseURL: 'http://localhost:8083/api',
+  baseURL: process.env.VUE_APP_DEV,
   timeout: 1000,
 });
 const Http = {};

@@ -12,6 +12,7 @@ Vue.prototype.$http = http;
 Vue.config.productionTip = false;
 fastclick.attach(document.body);
 
+
 new Vue({
   router,
   store,
